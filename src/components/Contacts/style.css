@@ -1,0 +1,9 @@
+.logoRedeSocial {
+  width: 50px;
+}
+
+.contacts {
+  display: flex;
+  padding: 10px;
+  margin: 20px;
+}
