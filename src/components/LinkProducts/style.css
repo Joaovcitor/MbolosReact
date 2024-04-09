@@ -1,0 +1,58 @@
+.imgLink {
+  width: 180px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.links {
+  margin-top: 20px;
+  background-color: #730074;
+  padding: 5px;
+}
+
+.GridProducts {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.linha {
+  color: white;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+.nameProduct {
+  font-size: 25px;
+  color: white;
+  font-family: "Libre Caslon Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.description {
+  font-family: "Josefin Slab", serif;
+  font-weight: 500;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: white;
+  font-size: 20px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+.linksProducts {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #e23d75;
+  width: 200px;
+}

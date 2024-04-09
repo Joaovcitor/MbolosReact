@@ -1,10 +1,11 @@
 .topOfPage {
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 h1 {
-  margin: 30px;
+  /* margin: 30px; */
   font-size: 30px;
+  color: white;
 }
